@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Hero Text
+Description=Text mode theme based on Hero-logo theme
+ModuleName=Hero-text
+
+[Hero-text]
+title=Hero 30.06
+black=0x2c001e
+white=0xffffff
+brown=0xff4012
+blue=0x988592

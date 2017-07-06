@@ -1,0 +1,4 @@
+[com.canonical.Unity.Launcher]
+favorites = ['application://pencilbox.desktop', 'application://physics.desktop', 'application://biology.desktop', 'application://chemistry.desktop', 'application://maths.desktop', 'application://social.desktop', 'application://english.desktop', 'application://nautilus.desktop', 'unity://running-apps', 'unity://expo-icon', 'unity://devices'] 
+[org.gnome.desktop.background]
+picture-uri = 'file:///usr/share/backgrounds/balaswecha-dark.png'
